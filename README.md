@@ -1,0 +1,2 @@
+# indoxploit
+Wordpress exploit annotations
