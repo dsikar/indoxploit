@@ -191,6 +191,12 @@ option:hover {
 // Tapi Selebihnya, itu hasil kreasi IndoXploit sendiri.
 // Tanpa kalian kita tidak akan BESAR seperti sekarang.
 // Greetz: All Member IndoXploit. & all my friends.
+// Google translation
+// Thanks for those who help in the process of making this shell.
+// This shell is not completely 100% manual Coding, there are some functions and tools we take from the existing shell.
+// But the rest, it's IndoXploit own creation.
+// Without you we will not be as BIG as it is now.
+// Greetz: All Member IndoXploit. & all my friends. 
 ###############################################################################
 function w($dir,$perm) {
     if(!is_writable($dir)) {
