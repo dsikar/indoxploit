@@ -12,3 +12,7 @@ Redirects to news.php and file.php.
 ## ,htaccess.ss
 
 Probably renamed, redirect to directory ss_slash_site_path.
+
+## 404.php
+
+Encoded html page, decoded with javascript unescape function. 
