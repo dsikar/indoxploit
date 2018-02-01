@@ -9,10 +9,15 @@ Replaced original archive.php in wp-content/themes/simplicitybright/ (simplicity
 
 Redirects to news.php and file.php.
 
-## ,htaccess.ss
+## htaccess.ss
 
 Probably renamed, redirect to directory ss_slash_site_path.
 
 ## 404.php
 
 Encoded html page, decoded with javascript unescape function. 
+
+## 404-unencode.php
+
+Unencoded 404.php using http://www.utilities-online.info/urlencode
+
